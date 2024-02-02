@@ -9,7 +9,7 @@ const font = Nunito({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
     title: SITENAME,
-    description: `${SITENAME} is a video sharing platform that allows users to upload, watch, and share videos.`,
+    description: `${SITENAME} is a video sharing platform created with love by Softfreakz`,
     metadataBase: new URL("http://localhost:3000/"),
 };
 
